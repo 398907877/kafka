@@ -1,3 +1,10 @@
+吴佳俊----
+
+
+主要用于log统计和一些不太重要的异步处理。kafka的优点就是吞吐量很高，但是不能保证消息可靠性消费，比如消息消费失败直接丢弃或者不保证消息唯一性消费，这些可以在消费端自己做一些定制化处理。
+
+
+
 Apache Kafka
 =================
 See our [web site](http://kafka.apache.org) for details on the project.
